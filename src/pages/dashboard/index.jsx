@@ -124,7 +124,7 @@ export default function Dashboard() {
                   </select>
                 </div>
 
-                <div className="col-span-6">
+                <div className="col-span-12 sm:col-span-6>
                   <label
                     htmlFor="street-address"
                     className="block text-sm font-medium text-gray-700"
